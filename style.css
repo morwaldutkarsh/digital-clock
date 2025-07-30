@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+
+#heading{
+    
+    margin : 2rem;
+    padding : auto;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+}
+#clock{
+    margin-top: 10%;
+    text-align: center;
+    font-size: 15rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f8f8; 
+    text-align: center;
+    padding: 0.5rem;
+}
